@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkevents_booster=self.webpackChunkevents_booster||[]).push([[732],{1732:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var s="NotFoundPage_NotFoundPage__IuPMi",u=t(1765),o=t(3329),r=function(){return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(u.Z,{}),(0,o.jsx)("div",{className:s,children:"NotFoundPage"})]})}}}]);
+//# sourceMappingURL=732.132d88f2.chunk.js.map
